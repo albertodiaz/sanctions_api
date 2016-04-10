@@ -1,0 +1,8 @@
+{
+  "name": "Documentation for the Sanctions API",
+  "version": "0.0.1",
+  "description": "Just a API to search data in sanction lists",
+  "title": "API project",
+  "url" : "http://apilocal:8888/v1",
+  "sampleUrl" : "http://apilocal:8888/v1"
+}
